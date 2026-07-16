@@ -89,7 +89,7 @@ LOLHUMAN_KEY = os.environ.get(
 
 IS_CURI_DATA = os.environ.get("IS_CURI_DATA", True)
 
-WAJIB_JOIN = ["https://t.me/zpsexz"]
+WAJIB_JOIN = ["https://t.me/yaaaaabginilah"]
 
 USENAME_OWNER = os.environ.get("USENAME_OWNER", "@iscrtz")
 
@@ -124,7 +124,7 @@ HELP_LOGO = os.environ.get(
     "https://files.catbox.moe/ru9lxz.jpg",
 )
 
-BLACKLIST_GCAST =["-1003996218782"]
+BLACKLIST_GCAST =["-1005179003810"]
 
 COOKIE_BING = os.environ.get(
     "COOKIE_BING",
@@ -222,7 +222,7 @@ API_KEY = [
     "e28f846e88msh9647d59c6e44523p111032jsnc80f0feb8cf7",
 ]
 
-STARX = [7586938131]
+STARX = [7103725356]
 if OWNER_ID not in SUDO_OWNERS:
     SUDO_OWNERS.append(OWNER_ID)
 if OWNER_ID not in DEVS:
