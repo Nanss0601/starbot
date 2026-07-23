@@ -91,7 +91,7 @@ IS_CURI_DATA = os.environ.get("IS_CURI_DATA", True)
 
 WAJIB_JOIN = ["https://t.me/yaaaaabginilah"]
 
-USENAME_OWNER = os.environ.get("USENAME_OWNER", "@iscrtz")
+USENAME_OWNER = os.environ.get("USENAME_OWNER", "@bctlokocak")
 
 
 
